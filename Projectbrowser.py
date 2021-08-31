@@ -50,6 +50,6 @@ class MainWindow(QMainWindow):
 
 
 app = QApplication(sys.argv)
-QApplication.setApplicationName('Sasta Chrome')
+QApplication.setApplicationName('Cheap Chrome')
 window = MainWindow()
 app.exec_() 
